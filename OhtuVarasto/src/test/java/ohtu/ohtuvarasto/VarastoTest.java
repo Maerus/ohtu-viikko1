@@ -84,8 +84,8 @@ public class VarastoTest {
     }
     
     @Test
-    public void t2(){
-        varasto.lisaaVarastoon(50);
+    public void t2(){//rikki
+        varasto.lisaaVarastoon(5);
         assertEquals(10, varasto.getSaldo(), vertailuTarkkuus);
     }
     
@@ -97,7 +97,7 @@ public class VarastoTest {
     
     @Test
     public void t4(){
-        varasto.otaVarastosta(9);
+        varasto.otaVarastosta(11);
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
     }
 }
