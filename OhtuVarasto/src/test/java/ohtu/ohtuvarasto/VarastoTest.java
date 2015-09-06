@@ -84,8 +84,8 @@ public class VarastoTest {
     }
     
     @Test
-    public void t2(){//rikki
-        varasto.lisaaVarastoon(5);
+    public void t2(){
+        varasto.lisaaVarastoon(50);
         assertEquals(10, varasto.getSaldo(), vertailuTarkkuus);
     }
     
