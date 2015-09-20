@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\Main.java">
+<error line="13" column="5" severity="error" message="Cyclomatic Complexity is 12 (max allowed is 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="13" column="5" severity="error" message="Method length is 46 lines (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="55" severity="error" message="if at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="error" message="if at indentation level 36 not at correct indentation, 16" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="error" message="if child at indentation level 8 not at correct indentation, 16" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="error" message="method call child at indentation level 8 not at correct indentation, 16" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" column="37" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="57" severity="error" message="if rcurly at indentation level 24 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="57" severity="error" message="if rcurly at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" column="17" severity="error" message="Nested for depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck"/>
+<error line="66" severity="error" message="for at indentation level 16 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="69" column="17" severity="error" message="Nested for depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck"/>
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Kauppa.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Kirjanpito.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Ostoskori.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Pankki.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\PankkiInterface.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Tuote.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Varasto.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\VarastoInteface.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Viitegeneraattori.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\ViitegeneraattoriInterface.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\Main.java">
+<error line="58" severity="error" message="Found duplicate of 8 lines in s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\Main.java, starting from line 65" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Kauppa.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Kirjanpito.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Ostoskori.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Pankki.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\PankkiInterface.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Tuote.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Varasto.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\VarastoInteface.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\Viitegeneraattori.java">
+</file>
+<file name="s:\Table\ohturepo\viikko2 projektit\Verkkokauppa2\src\main\java\ohtu\verkkokauppa\ViitegeneraattoriInterface.java">
+</file>
+</checkstyle>
