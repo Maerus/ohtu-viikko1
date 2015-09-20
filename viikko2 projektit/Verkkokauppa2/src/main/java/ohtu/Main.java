@@ -47,5 +47,30 @@ public class Main {
         }
         
         System.out.println(" - - projekti: verkkokauppa2 - annotaatiot");
+		
+		//checkstyle testausta
+        
+        int a = 0;
+        int b = 1;
+        int c = 2;
+        if(a == 0){
+        if(b == 1){
+        System.out.println(" - - ");if(c==2){}
+        }		}
+        
+        for(i=0;i<2;i++){
+            for(j=0;j<2;j++){
+                System.out.println(i + " " + j);
+                for(k=0;k<2;k++){}
+            }
+        }
+		
+		for(i=0;i<2;i++){
+            for(j=0;j<2;j++){
+                System.out.println(i + " " + j);
+                for(k=0;k<2;k++){}
+            }
+        }
+		
     }
 }
